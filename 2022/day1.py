@@ -3,8 +3,6 @@ texto = f.read()
 
 texto = texto.split('\n')
 
-
-
 elf_total_cal = 0
 list_elf_cal = []
 
